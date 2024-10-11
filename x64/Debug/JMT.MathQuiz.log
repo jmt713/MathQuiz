@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\18643\Documents\C++ Programming\JMT.MathQuiz\JMT.MathQuiz\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  JMT.MathQuiz.vcxproj -> C:\Users\18643\Documents\C++ Programming\JMT.MathQuiz\x64\Debug\JMT.MathQuiz.exe
